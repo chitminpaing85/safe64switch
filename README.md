@@ -1,8 +1,6 @@
 # safe64switch
 Safe 64-bit enable script for Raspberry Pi with rollback timer
 
-# Safe64 Script
-
 **Purpose:** Safely switch Raspberry Pi OS from 32-bit to 64-bit.
 
 ## Features
